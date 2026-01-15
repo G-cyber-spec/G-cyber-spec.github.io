@@ -13,9 +13,9 @@ website:
       - text: "About"
         href: about.html
       - text: "Data Visualization"
-        href: data_visualization.html
+        href: Data_Visualization.html
       - text: "Reflection"
-        href: reflection.html
+        href: Reflection.html
 
 format:
   html:
