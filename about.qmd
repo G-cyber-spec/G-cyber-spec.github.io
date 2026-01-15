@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Financial Calculator Website"
 ---
 
-About this site
+One of the projects I did in my polytechnic was creating a financial calculator website that could help users better prepare or plan for hitting one of their financial goals. 
 
 ```{r}
 1 + 1

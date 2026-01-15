@@ -4,6 +4,8 @@ title: "temp_website"
 
 This is a Quarto website.
 
+A short introduction about myself is that I'm a student studying at Singapore Institute of Technology and this lab is for the module AAI1001 - Data Engineering and Visualization.
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}

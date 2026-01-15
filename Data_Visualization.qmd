@@ -1,0 +1,10 @@
+---
+title: "Data_Visualization"
+format: html
+---
+![](imgs/Accuracy.png){height="100px" style="float:left; margin-right:10px;"}
+One visualization project I've done was a programming assignment, which involved analyzing the US stock market to identify potential stocks for price increases using historical data over the past 10 years. So using this historical data, we used machine learning to try and predict the future stock prices and tracked the accuracy of each stock prediction.
+
+<div style="clear: both;"></div>
+One reference video I've used to help me in completing the project is as shown below
+{{<video https://www.youtube.com/watch?v=1O_BenficgE width="600" height="400">}}

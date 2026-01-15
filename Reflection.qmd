@@ -1,0 +1,7 @@
+---
+title: "Reflection"
+format: html
+---
+The GenAI tool used during this assessment was ChatGPT. It was chosen as it was the most familiar tool to use.
+
+It was used to help me troubleshoot some issues I had when going through the steps of completing the assessment. One such example was when I tried to push the code after making a commit, github told me that I didn't have access as apparently I tried to push the commit with an account different from the github owner, which shouldn't be possible as I did not sign into the account stated in the terminal error message. One suggestion ChatGPT gave me was to add that account as a collaborator to enable the push, so I signed out and signed into the other account to be accepted as a collaborating, before being able to finally push the commit into the repository.
