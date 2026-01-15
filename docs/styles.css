@@ -1,1 +1,38 @@
 /* css styles */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;           /* easier to read */
+  max-width: 900px;           /* prevents overly wide text */
+  margin: 0 auto;             /* centers content */
+  padding: 20px;
+  color: #222;
+}
+p {
+  margin-bottom: 1em;
+}
+h1, h2 {
+  font-size: 18pt;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h3, h4 {
+  font-size: 15pt;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+}
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+img, video, iframe {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+}

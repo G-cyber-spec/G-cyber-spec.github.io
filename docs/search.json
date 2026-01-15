@@ -4,6 +4,27 @@
     "href": "index.html",
     "title": "temp_website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nA short introduction about myself is that I’m a student studying at Singapore Institute of Technology and this lab is for the module AAI1001 - Data Engineering and Visualization.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Financial Calculator Website",
+    "section": "",
+    "text": "One of the projects I did in my polytechnic was creating a financial calculator website that could help users better prepare or plan for hitting one of their financial goals.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "The GenAI tool used during this assessment was ChatGPT. It was chosen as it was the most familiar tool to use.\nIt was used to help me troubleshoot some issues I had when going through the steps of completing the assessment. One such example was when I tried to push the code after making a commit, github told me that I didn’t have access as apparently I tried to push the commit with an account different from the github owner, which shouldn’t be possible as I did not sign into the account stated in the terminal error message. One suggestion ChatGPT gave me was to add that account as a collaborator to enable the push, so I signed out and signed into the other account to be accepted as a collaborating, before being able to finally push the commit into the repository."
+  },
+  {
+    "objectID": "Data_Visualization.html",
+    "href": "Data_Visualization.html",
+    "title": "Data_Visualization",
+    "section": "",
+    "text": "One visualization project I’ve done was a programming assignment, which involved analyzing the US stock market to identify potential stocks for price increases using historical data over the past 10 years. So using this historical data, we used machine learning to try and predict the future stock prices and tracked the accuracy of each stock prediction.\n\n\n\nOne reference video I’ve used to help me in completing the project is as shown below"
   }
 ]

@@ -8,9 +8,14 @@ website:
   navbar:
     logo: logo.png
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.html
+      - text: "About"
+        href: about.html
+      - text: "Data Visualization"
+        href: data_visualization.html
+      - text: "Reflection"
+        href: reflection.html
 
 format:
   html:
